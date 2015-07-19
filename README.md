@@ -1,0 +1,2 @@
+# Track-ECPAT
+This app provides information about human trafficking from all around the world and it has an alert button so that people in danger can quickly call for help. Not only does this app aid in spreading awareness but also it can save a life by alerting local authorities about human trafficking incidents by utilizing location services. Moreover, it supplies users with an interactive map, which allows them to view international human trafficking statistics. A daily fact is also presented to keep users informed.
